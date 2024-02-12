@@ -32,7 +32,7 @@
     <h2>팀원 소개</h2>
      <ul>
       <li>윤상하(조장) : 기획, EDA, Machine Learning, PPT</li>
-      <li><h4>박성훈 : 기획, 제안, EDA, Machine Learning</h4>/li>
+      <li><h4>박성훈 : 기획, 제안, EDA, Machine Learning</h4></li>
       <li>정선우 : 기획, EDA</li>
       <li>김동규 : 기획, 제안</li>
     </ul>
