@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-
+<img src="https://postfiles.pstatic.net/MjAyNDAyMTJfOCAg/MDAxNzA3NzQ0NzIzNjc4.nI_QIYLe7UsODcU1T8r4x7uHlGJwbXEuzUrs4xQ8pc0g.QJTmDQerWRcDxCA_3_cPjxkznS-dW77QFIFBKnxgkoIg.PNG.shmi1234/%EB%8C%80%EA%B8%B0%EC%98%A4%EC%97%BC_PPT.png?type=w773" alt="이미지">
 <header>
   <h1>대기오염 수치에 따른 미세먼지 / 질병과의 상관관계 분석 프로젝트</h1>
   <h4>2024.12.27 ~ 2024.01.03 (총 5일) 기간 내에 자소서 코칭 기간 포함</h4>
